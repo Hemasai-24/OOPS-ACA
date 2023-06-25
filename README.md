@@ -9,7 +9,7 @@
 ## 2)To change the drive in CMD
 #### a)If you want to change the drive from C: to D: ,you should type d:,Command prompt is not case sensitive
 #### b)If you want to change the drive and the directory at the same time,use the cd command,followed by the /d switch.
-#### By typing only the drive letter you automatically move to yur most recent location on that drive.
+#### By typing only the drive letter you automatically move to your most recent location on that drive.
 ## 3)To view the contents of a directory in Command Prompt 
 ### DIR in CMD
 #### To navigate to the folder,we have to use the command cd/dD:\folder name.To view the contents od the folder,typr DIR
@@ -19,7 +19,7 @@
 #### If you want to rename a Folder with New folder name, we use the syntax: ren Folder New folder name
 ## 6)To copy files in CMD
 #### COPY command allows you to copy files from one location to another.
-####syntax:copy location\filename.extension
+#### syntax:copy location\filename.extension
 ####       newlocation\newname.extension
 ## 7)TO copy folders in CMD including their contents
 #### TO copy a folder and its content from one location to other
