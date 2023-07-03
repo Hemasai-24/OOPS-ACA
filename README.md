@@ -36,8 +36,8 @@
 ## 9)To delete a folder from CMD
 #### DEL command cannot be used to delete folders.To remove any empty folder we use RD
 #### syntax:RD[Folder]
-####To delete the directory too we use RD folder name
-##10)To launch an app from CMD
-####If you want to launch control panel using command prompt go to C:\Windows\System32,whee its executable is:control.exe
-##11)To get help in the command prompt
-####help displays a list of all the available commands.If a particular command interests you,type help followed by name of that command.Another way to do same thing is to type the command's name followed by /?parameter.
+#### To delete the directory too we use RD folder name
+## 10)To launch an app from CMD
+#### If you want to launch control panel using command prompt go to C:\Windows\System32,whee its executable is:control.exe
+## 11)To get help in the command prompt
+#### help displays a list of all the available commands.If a particular command interests you,type help followed by name of that command.Another way to do same thing is to type the command's name followed by /?parameter.
